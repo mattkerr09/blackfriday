@@ -1,0 +1,21 @@
+{
+  "name": "LiftHer",
+  "url": "https://apps.apple.com/app/id6746058688?pt=119552309&ct=bf26_indiegoodies&mt=8",
+  "description": "A strength training log for women to plan lifting routines, track sets, and see progress over time",
+  "category": "lifestyle",
+  "platforms": [
+    "ios",
+    "ipad",
+    "watch"
+  ],
+  "deal": "Up to 60% off the first year of Pro for eligible accounts, varies by storefront",
+  "pricing": "subscription",
+  "price": {
+    "regular": 38.49,
+    "sale": 15.49,
+    "currency": "USD"
+  },
+  "discount": 60,
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30"
+}
