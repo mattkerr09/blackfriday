@@ -1,0 +1,21 @@
+{
+  "name": "Gymfile",
+  "url": "https://apps.apple.com/app/id1448100591?pt=119552309&ct=bf26_indiegoodies&mt=8",
+  "description": "Log strength workouts, plan routines, and track your progress with charts and a training history",
+  "category": "lifestyle",
+  "platforms": [
+    "ios",
+    "ipad",
+    "watch"
+  ],
+  "deal": "50% off Pro Lifetime in participating storefronts, automatically applied",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 109.99,
+    "sale": 54.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01"
+}

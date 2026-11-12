@@ -1,0 +1,20 @@
+{
+  "name": "WebWatch",
+  "url": "https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_indiegoodies&mt=8",
+  "description": "Monitor web pages for changes and get alerts for price drops, restocks, and new posts",
+  "category": "utilities",
+  "platforms": [
+    "ios",
+    "ipad"
+  ],
+  "deal": "About 40% off Pro Lifetime in participating storefronts, automatically applied",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 56.99,
+    "sale": 34.0,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01"
+}
