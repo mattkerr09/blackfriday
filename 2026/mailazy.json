@@ -1,0 +1,14 @@
+{
+  "name": "Mailazy",
+  "url": "https://mailazy.com/blog/black-friday-deals",
+  "description": "Email sending API and email marketing in one account",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "30% off with code THANKS30, Pro plan $49 to $34.30 a month",
+  "code": "THANKS30",
+  "pricing": "subscription",
+  "price": { "regular": 49, "sale": 34.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-05",
+  "endDate": "2027-02-05"
+}

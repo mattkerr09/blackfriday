@@ -1,0 +1,13 @@
+{
+  "name": "GrackerAI",
+  "url": "https://gracker.ai/blog/black-friday-deals",
+  "description": "AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS, see how AI engines cite your brand",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "20% off with code BF2026, Individual plan $99 to $79.20 a month",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 99, "sale": 79.2, "currency": "USD" },
+  "discount": 20,
+  "endDate": "2026-12-15"
+}
