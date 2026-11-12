@@ -1,0 +1,14 @@
+{
+  "name": "uncompressed.io",
+  "url": "https://uncompressed.io/black-friday",
+  "description": "Film hosting, client review, delivery and selling for filmmakers, streamed from the file you upload with no extra re-encode",
+  "category": "media",
+  "platforms": ["web", "mac"],
+  "deal": "30% off all yearly plans, kept at every renewal while you stay subscribed",
+  "pricing": "subscription",
+  "price": { "regular": 99, "sale": 69.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://uncompressed.io/brand/app-icon-un-2000.png"
+}
