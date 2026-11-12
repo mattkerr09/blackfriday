@@ -1,0 +1,14 @@
+{
+  "name": "BlitzReels",
+  "url": "https://blitzreels.com/black-friday",
+  "description": "Turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "Yearly plans from $139 for the first year, 60% less than paying monthly",
+  "pricing": "subscription",
+  "price": { "regular": 204, "sale": 139, "currency": "USD" },
+  "discount": 32,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-01",
+  "icon": "https://blitzreels.com/logos/icon.png"
+}
