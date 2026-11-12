@@ -1,0 +1,15 @@
+{
+  "name": "SupaSidebar",
+  "url": "https://supasidebar.com",
+  "description": "Arc-like sidebar for all browsers. View or fuzzy search open tabs and bookmarks across browsers, one shortcut away",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code SIDEBARBF50",
+  "code": "SIDEBARBF50",
+  "pricing": "lifetime",
+  "price": { "regular": 79, "sale": 39.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-07",
+  "icon": "https://supasidebar.com/apple-touch-icon.png"
+}
