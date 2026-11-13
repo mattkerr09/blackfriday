@@ -1,0 +1,19 @@
+{
+  "name": "Outlier",
+  "url": "https://outlier.host/",
+  "description": "Runs open AI models on your own Mac, offline: chat, a coding agent and cited research, free version available",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Black Friday sale: $16.99 once, 31% off our November price of $24.50",
+  "pricing": "one-time",
+  "price": {
+    "regular": 24.5,
+    "sale": 16.99,
+    "currency": "USD"
+  },
+  "discount": 31,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-02"
+}
