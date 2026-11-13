@@ -1,0 +1,20 @@
+{
+  "name": "Crisp",
+  "url": "https://crispvideo.app/pricing/",
+  "description": "Offline video and photo upscaler and restorer for Mac and Windows, free version available",
+  "category": "media",
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "deal": "Black Friday sale: $9.99 once, 31% off our November price of $14.50",
+  "pricing": "one-time",
+  "price": {
+    "regular": 14.5,
+    "sale": 9.99,
+    "currency": "USD"
+  },
+  "discount": 31,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-02"
+}
