@@ -7,14 +7,8 @@
     "mac",
     "windows"
   ],
-  "deal": "Black Friday sale: $9.99 once, 31% off our November price of $14.50",
+  "deal": "Black Friday sale: $9.99 once through December 2. Then $29.",
   "pricing": "one-time",
-  "price": {
-    "regular": 14.5,
-    "sale": 9.99,
-    "currency": "USD"
-  },
-  "discount": 31,
   "startDate": "2026-11-13",
   "endDate": "2026-12-02"
 }

@@ -8,14 +8,8 @@
     "windows",
     "linux"
   ],
-  "deal": "Black Friday sale: $19.99 once, 32% off our November price of $29.50",
+  "deal": "Black Friday sale: $19.99 once through December 2. Then $39.",
   "pricing": "one-time",
-  "price": {
-    "regular": 29.5,
-    "sale": 19.99,
-    "currency": "USD"
-  },
-  "discount": 32,
   "startDate": "2026-11-13",
   "endDate": "2026-12-02"
 }
